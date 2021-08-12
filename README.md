@@ -23,7 +23,7 @@ Sou estudante de Ciência de dados. conheci essa área maravilhosa em 2020 após
 
 #### **Caso deseje interagir comigo click nos icones Linkedin and Whatsapp.**
   </a>
- <a href="https://api.whatsapp.com/send?phone=55553193541884&text=Ol%C3%A1%2C%20eu%20vim%20do%20seu%20GitHub" target="_blank">
+ <a href="https://api.whatsapp.com/send?phone=553193541884&text=Ol%C3%A1%2C%20eu%20vim%20do%20seu%20GitHub" target="_blank">
  <img align="center" src="https://image.flaticon.com/icons/png/128/134/134937.png" height="30" width="40">
   </a> 
   <a href="https://www.linkedin.com/in/igordesouzapaulino" target="_blank">
