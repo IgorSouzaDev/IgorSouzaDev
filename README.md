@@ -1,6 +1,6 @@
 # Olá👋
 
-Sou estudante de Ciência de dados. conheci essa área maravilhosa em 2020 após fazer um curso de Lógica de programação assim que terminei o curso encontrei um folheto sobre Power Bi, despertando meu interesse sobre a área, que cada vez me deixa maravilhado em transformar dados em informações relevantes.
+Sou estudante de Ciência de dados. conheci essa área maravilhosa em 2020 após fazer um curso de Lógica de programação, assim que terminei o curso encontrei um folheto sobre Power Bi, despertando meu interesse sobre a área, que cada vez me deixa maravilhado em transformar dados em informações relevantes.
 
 </div>
   <a href="https://github.com/IgorSouzaDev">
