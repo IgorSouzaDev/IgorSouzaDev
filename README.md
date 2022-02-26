@@ -16,8 +16,7 @@ Sou estudante de Ciência de dados. conheci essa área maravilhosa em 2020 após
 
  
  ### Sobre mim:
-- 🎓 Skills:  Python, SQL, Power Bi, Pentaho...
-- 📖 Estudando: Python Fundamentos para Data Science and Power BI para Data Science...
+- 🎓 Skills:  Python, SQL, Power Bi, Pentaho.
 - ❤️ Amo trabalhar com dados!!
 </div>
 
