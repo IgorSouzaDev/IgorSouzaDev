@@ -21,8 +21,7 @@ Automação de pipelines de dados e transformação de dados complexos em indica
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Power BI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
   <img align="center" alt="Databricks" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg">
 </div>
@@ -46,6 +45,6 @@ Automação de pipelines de dados e transformação de dados complexos em indica
 <a href="https://www.linkedin.com/in/igordesouzapaulino" target="_blank">
   <img align="center" src="https://image.flaticon.com/icons/png/128/145/145807.png" height="30" width="40">
 </a>
-<a href="https://api.whatsapp.com/send?phone=553193541884&text=Ol%C3%A1%2C%20eu%20vim%20do%20seu%20GitHub" target="_blank">
+<a href="https://api.whatsapp.com/send?phone=5531991529592&text=Ol%C3%A1%2C%20eu%20vim%20do%20seu%20GitHub" target="_blank">
   <img align="center" src="https://image.flaticon.com/icons/png/128/134/134937.png" height="30" width="40">
 </a>
