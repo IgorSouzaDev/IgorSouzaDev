@@ -29,4 +29,4 @@ Automação de pipelines de dados e transformação de dados complexos em indica
 
 <br>
 
-**Microsoft Fabric · Azure Data Factory · Databricks · SQL · Python · Power BI · Airflow **
+**Microsoft Fabric · Azure Data Factory · Databricks · SQL · Python · Power BI · Airflow**
