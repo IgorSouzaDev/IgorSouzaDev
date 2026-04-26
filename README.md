@@ -34,9 +34,7 @@ Automação de pipelines de dados e transformação de dados complexos em indica
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/IgorSouzaDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorSouzaDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorSouzaDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 ---
 
