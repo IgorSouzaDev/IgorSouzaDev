@@ -1,29 +1,51 @@
-# Olá👋
+# Olá, eu sou Igor Souza 👋
 
-Sou Analista de Dados. conheci essa área maravilhosa em 2020 após fazer um curso de Lógica de programação, assim que terminei o curso encontrei um folheto sobre Power Bi, despertando meu interesse sobre a área, que cada vez me deixa maravilhado em transformar dados em informações relevantes.
+Formado em Ciência de Dados pela Anhanguera, com experiência em Engenharia, Análise de Dados e Business Intelligence em consultorias para clientes de grande porte.
 
-</div>
-  <a href="https://github.com/IgorSouzaDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorSouzaDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+Conheci essa área em 2020 após um curso de Lógica de Programação — desde então cada projeto me deixa mais apaixonado por transformar dados em decisões de negócio.
 
-## Ferramentas e Linguagens
+---
+
+## 🏗️ Arquitetura & Engenharia de Dados
+Estruturação de Data Lakes e Data Warehouses com Arquitetura Medallion (Bronze, Silver, Gold), modelagem dimensional Star Schema e Snowflake, e implementação de pipelines incrementais com governança de dados via Unity Catalog.
+
+## 📊 Analytics & Business Intelligence
+Desenvolvimento de modelos semânticos, cubos OLAP e dashboards de alto impacto no Power BI integrando múltiplas fontes de dados para suporte à tomada de decisão executiva.
+
+## 🎯 Foco em Resultados
+Automação de pipelines de dados e transformação de dados complexos em indicadores acionáveis — entregando insights estratégicos que aceleram decisões de negócio.
+
+---
+
+## 🛠️ Stack Tecnológica
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Igor-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Igor-Mysql" height="30" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg>
-  <img align="center" alt="Igor-Powerbi" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
-  <img align="center" alt="Igor-Pentaho" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXDWkWd4ifNWa01qYuhD-5w_QFNYtKMw3eC71lSLMTYlzLTs5qnJrMxtdn0a5Vi4yv1jcfpUY2xyk&usqp=CAU">
-
- 
- ### Sobre mim:
-- 🎓 Skills:  Python, SQL, Power Bi, Pentaho.
-- ❤️ Amo trabalhar com dados!!
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Power BI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
+  <img align="center" alt="Databricks" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg">
 </div>
 
-#### **Caso deseje interagir comigo click nos icones Linkedin and Whatsapp.**
-  </a>
- <a href="https://api.whatsapp.com/send?phone=553193541884&text=Ol%C3%A1%2C%20eu%20vim%20do%20seu%20GitHub" target="_blank">
- <img align="center" src="https://image.flaticon.com/icons/png/128/134/134937.png" height="30" width="40">
-  </a> 
-  <a href="https://www.linkedin.com/in/igordesouzapaulino" target="_blank">
- <img align="center" src="https://image.flaticon.com/icons/png/128/145/145807.png" height="30" width="40">
+<br>
+
+**Microsoft Fabric · Azure Data Factory · Databricks · SQL · Python · Power BI**
+
+---
+
+## 📈 GitHub Stats
+
+<a href="https://github.com/IgorSouzaDev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorSouzaDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
+
+---
+
+## 📬 Vamos conversar?
+
+<a href="https://www.linkedin.com/in/igordesouzapaulino" target="_blank">
+  <img align="center" src="https://image.flaticon.com/icons/png/128/145/145807.png" height="30" width="40">
+</a>
+<a href="https://api.whatsapp.com/send?phone=553193541884&text=Ol%C3%A1%2C%20eu%20vim%20do%20seu%20GitHub" target="_blank">
+  <img align="center" src="https://image.flaticon.com/icons/png/128/134/134937.png" height="30" width="40">
+</a>
