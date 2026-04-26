@@ -29,14 +29,3 @@ Automação de pipelines de dados e transformação de dados complexos em indica
 <br>
 
 **Microsoft Fabric · Azure Data Factory · Databricks · SQL · Python · Power BI**
-
----
-
-## 📬 Vamos conversar?
-
-<a href="https://www.linkedin.com/in/igordesouzapaulino" target="_blank">
-  <img align="center" src="https://image.flaticon.com/icons/png/128/145/145807.png" height="30" width="40">
-</a>
-<a href="https://api.whatsapp.com/send?phone=5531991529592&text=Ol%C3%A1%2C%20eu%20vim%20do%20seu%20GitHub" target="_blank">
-  <img align="center" src="https://image.flaticon.com/icons/png/128/134/134937.png" height="30" width="40">
-</a>
