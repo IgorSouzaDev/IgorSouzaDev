@@ -7,7 +7,7 @@ Conheci essa área em 2020 após um curso de Lógica de Programação — desde 
 ---
 
 ## 🏗️ Arquitetura & Engenharia de Dados
-Estruturação de Data Lakes e Data Warehouses com Arquitetura Medallion (Bronze, Silver, Gold), modelagem dimensional Star Schema e Snowflake, e implementação de pipelines incrementais com governança de dados via Unity Catalog.
+Estruturação de Data Lakes e Data Warehouses com Arquitetura Medallion (Bronze, Silver, Gold), modelagem dimensional Star Schema e Snowflake, e implementação de pipelines incrementais com governança de dados.
 
 ## 📊 Analytics & Business Intelligence
 Desenvolvimento de modelos semânticos, cubos OLAP e dashboards de alto impacto no Power BI integrando múltiplas fontes de dados para suporte à tomada de decisão executiva.
